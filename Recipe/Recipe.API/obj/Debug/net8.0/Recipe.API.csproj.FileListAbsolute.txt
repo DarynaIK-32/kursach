@@ -1,0 +1,68 @@
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\appsettings.json
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.exe
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.deps.json
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.runtimeconfig.json
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.pdb
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.AssemblyReference.cache
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfoInputs.cache
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfo.cs
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.CoreCompileInputs.cache
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.Recipe.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Recipe.API.props
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Recipe.API.props
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Recipe.API.props
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\scopedcss\bundle\Recipe.API.styles.css
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.Up2Date
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\refint\Recipe.API.dll
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.pdb
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.genruntimeconfig.cache
+C:\Users\akost\source\repos\Recipe\Recipe.API\obj\Debug\net8.0\ref\Recipe.API.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\appsettings.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.exe
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.deps.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.runtimeconfig.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Recipe.API.pdb
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.AssemblyInfo.cs
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.Recipe.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Recipe.API.props
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Recipe.API.props
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Recipe.API.props
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\scopedcss\bundle\Recipe.API.styles.css
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.csproj.CopyComplete
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\refint\Recipe.API.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.pdb
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\Recipe.API.genruntimeconfig.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.API\obj\Debug\net8.0\ref\Recipe.API.dll

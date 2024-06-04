@@ -1,0 +1,36 @@
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.exe
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.deps.json
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.runtimeconfig.json
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.dll
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.pdb
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.csproj.AssemblyReference.cache
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.AssemblyInfoInputs.cache
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.AssemblyInfo.cs
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.T.D7384E65.Up2Date
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.dll
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\refint\Recipe.TelegramBot.dll
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.pdb
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.genruntimeconfig.cache
+C:\Users\akost\source\repos\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\ref\Recipe.TelegramBot.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.exe
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.deps.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.runtimeconfig.json
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Recipe.TelegramBot.pdb
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.AssemblyInfo.cs
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.csproj.CopyComplete
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\refint\Recipe.TelegramBot.dll
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.pdb
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\Recipe.TelegramBot.genruntimeconfig.cache
+C:\Users\1\Desktop\Recipe (4)\Recipe\Recipe.TelegramBot\obj\Debug\net8.0\ref\Recipe.TelegramBot.dll

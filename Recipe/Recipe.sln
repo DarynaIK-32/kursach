@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recipe.API", "Recipe.API\Recipe.API.csproj", "{0E549B38-4E40-4276-AAAE-BC884997E6CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recipe.TelegramBot", "Recipe.TelegramBot\Recipe.TelegramBot.csproj", "{64C81360-FE11-4C2B-82A1-1433FAE4657A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E549B38-4E40-4276-AAAE-BC884997E6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E549B38-4E40-4276-AAAE-BC884997E6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E549B38-4E40-4276-AAAE-BC884997E6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E549B38-4E40-4276-AAAE-BC884997E6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C81360-FE11-4C2B-82A1-1433FAE4657A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C81360-FE11-4C2B-82A1-1433FAE4657A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C81360-FE11-4C2B-82A1-1433FAE4657A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C81360-FE11-4C2B-82A1-1433FAE4657A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC35C275-F787-4D3D-8DE0-F545F2657CA9}
+	EndGlobalSection
+EndGlobal
